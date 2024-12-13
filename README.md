@@ -4,8 +4,9 @@ I'm a passionate and driven Data Scientist, Research Scientist with a strong fou
 
 **I'm currently focused on:**
 
-* Building predictive models, Deep Learning, Algorithms, ]
-* [Your Learning Goals, e.g., Mastering cloud computing, Expanding my knowledge in computer vision, Deepening my understanding of statistical modeling]
+* Building predictive models, Deep Learning, Neural Network Algorithms, Graph Neural Networks.
+* Fine-Tuning applications for real world applications and datasets using Transformer, BERT models.
+* Systems Modelling.
 
 **I'm always eager to:**
 
@@ -15,7 +16,7 @@ I'm a passionate and driven Data Scientist, Research Scientist with a strong fou
 
 * www.linkedin.com/in/muralitummalapalli
 
-[Fun fact about me I like reading papers published by fellow researchers and applying the methodology in applications]
+Fun fact about me I like reading papers published by fellow researchers and applying the methodology in applications
 
 
 ## Side Projects Notebook Table 📑
